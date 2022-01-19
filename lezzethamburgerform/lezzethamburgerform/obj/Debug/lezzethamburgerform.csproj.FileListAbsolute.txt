@@ -1,0 +1,10 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\bin\Debug\lezzethamburgerform.exe.config
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\bin\Debug\lezzethamburgerform.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\bin\Debug\lezzethamburgerform.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.csproj.AssemblyReference.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.Properties.Resources.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\lezzethamburgerform\lezzethamburgerform\obj\Debug\lezzethamburgerform.pdb
